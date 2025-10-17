@@ -1,0 +1,13 @@
+%% ReactionModel@2
+
+initialization = initial_value()
+time_unit = d
+default_state_unit = 1
+
+% components
+
+dummy0 := 0:1
+dummy1 := 0:1
+
+output0 = dummy0
+output1 = dummy1

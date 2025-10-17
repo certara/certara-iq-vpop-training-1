@@ -1,0 +1,3 @@
+parameter,unit,value,is_fit,prior,lower_bound,upper_bound
+dummy0,1,0,True,loguniformprior,2,10
+dummy1,1,0,True,loguniformprior,2,10
