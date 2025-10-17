@@ -29,7 +29,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/readline-8.2-h8c095d6_2.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/tk-8.6.13-noxft_hd72426e_102.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/tzdata-2025b-h78e105d_0.conda
-      - pypi: https://files.pythonhosted.org/packages/52/fc/c51d7c741aaa190f8649383e0045c797669c0c3666a5a09c966add55e1e8/abm-2.1.6-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/11/21/6491872fc77e333e2d39bc2d78007095fdc5fb2fd26121313cd96e7416b8/abm-2.1.7-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/15/b3/9b1a8074496371342ec1e796a96f99c82c945a339cd81a8e73de28b4cf9e/anyio-4.11.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/25/8a/c46dcc25341b5bce5472c718902eb3d38600a903b14fa6aeecef3f21a46f/asttokens-3.0.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/3a/2a/7cc015f5b9f5db42b7d48157e23356022889fc354a2813c15934b7cb5c0e/attrs-25.4.0-py3-none-any.whl
@@ -137,7 +137,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/readline-8.2-h8382b9d_2.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-aarch64/tk-8.6.13-noxft_h5688188_102.conda
       - conda: https://conda.anaconda.org/conda-forge/noarch/tzdata-2025b-h78e105d_0.conda
-      - pypi: https://files.pythonhosted.org/packages/52/fc/c51d7c741aaa190f8649383e0045c797669c0c3666a5a09c966add55e1e8/abm-2.1.6-py3-none-any.whl
+      - pypi: https://files.pythonhosted.org/packages/11/21/6491872fc77e333e2d39bc2d78007095fdc5fb2fd26121313cd96e7416b8/abm-2.1.7-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/15/b3/9b1a8074496371342ec1e796a96f99c82c945a339cd81a8e73de28b4cf9e/anyio-4.11.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/25/8a/c46dcc25341b5bce5472c718902eb3d38600a903b14fa6aeecef3f21a46f/asttokens-3.0.0-py3-none-any.whl
       - pypi: https://files.pythonhosted.org/packages/3a/2a/7cc015f5b9f5db42b7d48157e23356022889fc354a2813c15934b7cb5c0e/attrs-25.4.0-py3-none-any.whl
@@ -258,10 +258,10 @@ packages:
   purls: []
   size: 23712
   timestamp: 1650670790230
-- pypi: https://files.pythonhosted.org/packages/52/fc/c51d7c741aaa190f8649383e0045c797669c0c3666a5a09c966add55e1e8/abm-2.1.6-py3-none-any.whl
+- pypi: https://files.pythonhosted.org/packages/11/21/6491872fc77e333e2d39bc2d78007095fdc5fb2fd26121313cd96e7416b8/abm-2.1.7-py3-none-any.whl
   name: abm
-  version: 2.1.6
-  sha256: 5219099250428bebcedf79b005b2152a6fc9f3e99dfdcf6906d92966fb4b2186
+  version: 2.1.7
+  sha256: 38feba67b1d8f1de9373e361602362359678976a029e3cdb6c6ce77a0812c07e
   requires_dist:
   - httpx>=0.27,<0.28
   - ipython>=8.23,<9.0
